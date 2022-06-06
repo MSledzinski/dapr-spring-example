@@ -1,5 +1,7 @@
-Simple example of two Spring Boot services Dapr1 and Dapr2
-Dapr1 calling Dapr2
+__Context__
+
+Playground example of using https://docs.dapr.io/ with Kind cluster.
+Scenario: two Spring Boot services Dapr1 and Dapr2 - when calling API - call chain: Nginx/Ingress -> Dapr1 -> Dapr2
 
 
 __NOTE: it is not secure / quality setup - only as dev playground__
